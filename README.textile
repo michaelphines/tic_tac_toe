@@ -1,33 +1,33 @@
-# Tic-Tac-Toe
-## Michael Hines 
-## mike@michaelphines.net
+h1. Tic-Tac-Toe
+h2. Michael Hines 
+h2. mike@michaelphines.net
 
-### Requirements:
+h3. Requirements:
 
 This game requires the standard ruby curses bindings, which means you must
 have curses or ncurses installed to play the game.  Windows users may have
 to do some searching.
 http://directory.fsf.org/project/ncurses/
 
-### Controls:
+h3. Controls:
 
 Use [tab] to select the next available square, or use the [arrow keys] to
 select it yourself.  Press the [spacebar] or [enter] key to select the square
 and place your mark.  Tap [Q] or [Ctrl-C] at any point to quit the game.
 
-### Gameplay:
+h3. Gameplay:
 
 The first player starts off as X and places his mark in an empty square, then
 the opponent follows by placing an O in any other empty square.  The game ends
 with a winner when a player has 3 of his marks in a row, column, or diagonal. 
 The game is drawn when every square is filled and a winner does not exist.
 
-### Turns:
+h3. Turns:
 
 When the application begins the player goes first.  Subsequent games switch
 the player to start only after a draw.
 
-### About: 
+h3. About: 
 
 The game almost universal, in some countries it is better known as Noughts and
 Crosses, but those countries are mistaken.
