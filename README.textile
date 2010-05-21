@@ -1,6 +1,6 @@
 h1. Tic-Tac-Toe
 
-h2. Michael Hines 
+Michael Hines 
 mike@michaelphines.net
 
 h3. Requirements:
