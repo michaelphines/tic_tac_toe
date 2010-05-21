@@ -1,0 +1,6 @@
+require 'tic_tac_toe/board'
+require 'tic_tac_toe/computer'
+require 'tic_tac_toe/cursor'
+require 'tic_tac_toe/display'
+require 'tic_tac_toe/game'
+require 'tic_tac_toe/game_controller'
